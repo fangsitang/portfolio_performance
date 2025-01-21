@@ -10,7 +10,7 @@
 
 ## Brinson model 🧱
 
-* Identifies whether or not strong performance relative to the benchmark is due to the portfolio manager's exceptional ability to pick securities, overweight or underweight sectors, or both.
+* Identifies whether or not strong performance relative to the benchmark is due to the portfolio manager's exceptional ability to pick securities, decision to overweight or underweight sectors, or BOTH.
 
 ## Attribution for different funds 🏦
 
