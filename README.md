@@ -49,3 +49,16 @@ interaction_effect = np.sum( (fund_weights - bench_weights) * fund_sector_rets -
 total_effect = allocation_effect + selection_effect + interaction_effect
 ```
 
+For the Mackenzie Bluewater US Gr A fund, we obtain :
+```python
+print("\nTotal Effects Summary:")
+print(total_effects.T)
+
+Total Effects Summary:
+                          Total
+Allocation Effect     -1.184305
+Selection Effect    1165.312965
+Interaction Effect   -95.252150
+Total Effect        1068.876510
+```
+
