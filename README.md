@@ -2,7 +2,7 @@
 
 ## Goal ✔️
 
-A key challenge in **_open architecture_** investing is to assess the performance of external portfolio managers 🤔💭.\
+A key challenge in **_open architecture_** investing is to assess the performance of external portfolio managers 🤔💭.
 
 *→ Are they managing our funds well?\
 → Do they respect the investment mandate of the fund?\
