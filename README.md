@@ -2,15 +2,17 @@
 
 ## Goal ✔️
 
-* A key challenge in **_open architecture_** investing is to assess the performance of external portfolio managers 🤔💭.\
+A key challenge in **_open architecture_** investing is to assess the performance of external portfolio managers 🤔💭.\
+
 *→ Are they managing our funds well?\
 → Do they respect the investment mandate of the fund?\
 → Do we keep them, or find another portfolio manager?*
-* Many metrics and models are used to answer these exact questions. Here, I'll demonstrate an application of the Brinson model.
+
+ Many metrics and models are used to answer these exact questions. Here, I'll demonstrate an application of the Brinson model.
 
 ## Brinson model 🧱
 
-*Identifies whether or not strong performance relative to the benchmark is due to (1) the portfolio manager's exceptional ability to pick securities, (2) their decision to overweight or underweight sectors or (3) BOTH.
+Identifies whether or not strong performance relative to the benchmark is due to (1) the portfolio manager's exceptional ability to pick securities, (2) their decision to overweight or underweight sectors or (3) BOTH.
 
 ## Attribution for different funds 🏦
 
