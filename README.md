@@ -14,10 +14,6 @@ A key challenge in **_open architecture_** investing is to assess the performanc
 
 Identifies whether or not strong performance relative to the benchmark is due to (1) the portfolio manager's exceptional ability to pick securities, (2) their decision to overweight or underweight sectors or (3) BOTH.
 
-## Attribution for different funds 🏦
-
-
-
 ## Sample code 👩🏻‍💻
 
 Begin by cleaning datasets and retrieving all relevant data.
